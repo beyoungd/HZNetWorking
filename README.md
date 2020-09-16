@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HZNetworking
 
 [![CI Status](https://img.shields.io/travis/huaizhan/HZNetworking.svg?style=flat)](https://travis-ci.org/huaizhan/HZNetworking)
@@ -27,3 +28,6 @@ huaizhan, 1049712935@qq.com
 ## License
 
 HZNetworking is available under the MIT license. See the LICENSE file for more info.
+=======
+# HZNetWorking
+>>>>>>> 43cb0c9aa2dbedb72d627114c07a4a7d2e445d83
